@@ -9,7 +9,6 @@ public class Bill3 {
 		amount = amount/3;
 		amount = Math.ceil(amount);
 		System.out.println("Dear " + name1 + ", " + name2 + ", and " + name3 + ": pay "
-		 + amount + " Shekel each.");
-
+		 + amount + " Shekel each");
 	}
 }
